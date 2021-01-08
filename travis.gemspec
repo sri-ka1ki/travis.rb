@@ -420,7 +420,7 @@ Gem::Specification.new do |s|
   s.add_dependency "pusher-client",         "~> 0.4"
   s.add_development_dependency "rspec",     "~> 2.12"
   s.add_development_dependency "rspec-its"
-  s.add_development_dependency "sinatra",   "~> 1.3"
+  s.add_development_dependency "sinatra",   "~> 2.1"
   s.add_development_dependency "rack-test", "~> 0.6"
 
   # Prereleasing on Travis CI
