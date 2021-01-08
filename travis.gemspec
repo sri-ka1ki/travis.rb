@@ -418,7 +418,7 @@ Gem::Specification.new do |s|
   s.add_dependency "launchy",               "~> 2.1", "< 2.5.0"
   s.add_dependency "json_pure",             "~> 2.3"
   s.add_dependency "pusher-client",         "~> 0.4"
-  s.add_development_dependency "rspec",     "~> 2.12"
+  s.add_development_dependency "rspec",     "~> 3.10"
   s.add_development_dependency "rspec-its"
   s.add_development_dependency "sinatra",   "~> 1.3"
   s.add_development_dependency "rack-test", "~> 0.6"
