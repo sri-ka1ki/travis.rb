@@ -415,7 +415,7 @@ Gem::Specification.new do |s|
   s.add_dependency "faraday_middleware",    "~> 1.0"
   s.add_dependency "highline",              "~> 2.0"
   s.add_dependency "gh",                    "~> 0.13"
-  s.add_dependency "launchy",               "~> 2.1", "< 2.5.0"
+  s.add_dependency "launchy",               "~> 2.1", "< 2.6.0"
   s.add_dependency "json_pure",             "~> 2.3"
   s.add_dependency "pusher-client",         "~> 0.4"
   s.add_development_dependency "rspec",     "~> 2.12"
